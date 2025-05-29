@@ -1,7 +1,7 @@
 # Hey, I'm Xorcode 👋
 
 I'm a young developer passionate about tech, Linux systems, and more.  
-I mainly code in **Python**, **C++**, **C#**, and **JavaScript**.  
+I mainly code in **Python**, **C++**, and **JavaScript**.  
 Always curious and learning by building real-world projects.
 
 ---
