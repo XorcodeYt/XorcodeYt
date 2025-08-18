@@ -16,7 +16,8 @@ Always curious and learning by building real-world projects.
 
 ### 🚀 Currently Working On
 
-- Personal projects in my free time  
+- Personal projects in my free time
+- A UpGun mod loader
 
 ---
 
