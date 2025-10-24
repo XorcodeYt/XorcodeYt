@@ -17,7 +17,8 @@ Always curious and learning by building real-world projects.
 ### 🚀 Currently Working On
 
 - Personal projects in my free time
-- A UpGun mod loader
+- An UpGun mod loader
+- A Sea of Thives external (Invento on top!)
 
 ---
 
