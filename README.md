@@ -18,7 +18,7 @@ Always curious and learning by building real-world projects.
 
 - Personal projects in my free time
 - An UpGun mod loader
-- A private Sea of Thives external (Invento on top!)
+- A private Sea of Thives external (Kitty Hook on top!)
 
 ---
 
