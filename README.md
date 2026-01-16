@@ -26,9 +26,3 @@ Always curious and learning by building real-world projects.
 
 - **Discord**: `Xorcode`  
 > Feel free to add me if you want to chat or collaborate on something
-
----
-
-### 📊 GitHub Stats
-
-[Xorcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xorcode&show_icons=true&theme=dark&hide_title=true)
