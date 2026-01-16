@@ -2,6 +2,7 @@
 
 I'm a young developer passionate about tech, Linux systems, and more.  
 I mainly code in ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSharp](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ! 
+
 Always curious and learning by building real-world projects.
 
 ---
