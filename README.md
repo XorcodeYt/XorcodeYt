@@ -33,6 +33,6 @@ I'm always curious and learning by building real projects.
 
 ### 📬 Contact
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/810790966192635914)](https://discord.com/users/810790966192635914)
+[![Discord Presence](https://lanyard.cnrad.dev/api/810790966192635914?idleMessage=Im%20watching%20u%20%F0%9F%98%B6&theme=dark&bg=0d1117)](https://discord.com/users/810790966192635914)
 
 > Feel free to add me if you want to chat or collaborate on something
