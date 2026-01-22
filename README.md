@@ -33,5 +33,6 @@ I'm always curious and learning by building real projects.
 
 ### 📬 Contact
 
-- **Discord**: `Xorcode`  
+[![Discord Presence](https://lanyard.cnrad.dev/api/810790966192635914)](https://discord.com/users/810790966192635914)
+
 > Feel free to add me if you want to chat or collaborate on something
