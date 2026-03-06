@@ -27,7 +27,7 @@ I'm always curious and learning by building real projects.
 
 - Personal projects in my free time
 - An UpGun mod loader
-- A Sea of Thives P2C external (Kitty Hook on top!)
+- A Sea of Thives private internal cheat
 
 ---
 
