@@ -1,6 +1,6 @@
 # Hey, I'm Xorcode 👋
 
-I'm a young developer passionate about low-level systems, advanced C++ development and a bit of reverse engineering (a tiny bit).
+I'm a young developer passionate about low-level systems, advanced C++ development and a bit of reverse engineering.
 I mainly code in **C++** **C#** **Python**! 
 
 I'm always curious and learning by building real projects.
