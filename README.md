@@ -26,8 +26,7 @@ I'm always curious and learning by building real projects.
 ### 🚀 Currently Working On
 
 - Personal projects in my free time
-- An UpGun mod loader
-- A Sea of Thives private internal cheat
+- A Ark SA private internal cheat
 
 ---
 
